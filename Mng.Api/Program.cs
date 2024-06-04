@@ -21,7 +21,7 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 {
     options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
     options.JsonSerializerOptions.WriteIndented = true;
-}); 
+});
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
@@ -51,9 +51,9 @@ builder.Services.AddSwaggerGen(options =>
     });
 });
 builder.Services.AddDbContext<DataContext>();
-builder.Services.AddDbContext<DataContext>(
-    options => options.UseSqlServer(builder.Configuration["ConnectionString"])) ;
-builder.Services.AddScoped<IEmployeeRepository,EmployeeRepository>();
+//builder.Services.AddDbContext<DataContext>(
+//    options => options.UseSqlServer(builder.Configuration["ConnectionString"]));
+builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddScoped<IRoleRepository, RoleRepository>();
 builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 builder.Services.AddScoped<IRoleService, RoleService>();

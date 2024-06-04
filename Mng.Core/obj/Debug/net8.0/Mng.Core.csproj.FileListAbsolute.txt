@@ -23,3 +23,16 @@ C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\Practicum\Mng-Workers-Ser
 C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\Practicum\Mng-Workers-Server\Mng.Core\bin\Debug\net8.0\Mng.Core.pdb
 C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\Practicum\Mng-Workers-Server\Mng.Core\obj\Debug\net8.0\ref\Mng.Core.dll
 C:\Users\TAMAR TSIGELMAN\Desktop\תכנות תשפ''ד\Practicum\Mng-Workers-Server\Mng.Core\obj\Debug\net8.0\Mng.Core.sourcelink.json
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\bin\Debug\net8.0\Mng.Core.deps.json
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\bin\Debug\net8.0\Mng.Core.dll
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\bin\Debug\net8.0\Mng.Core.pdb
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\Mng.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\Mng.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\Mng.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\Mng.Core.AssemblyInfo.cs
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\Mng.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\Mng.Core.sourcelink.json
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\Mng.Core.dll
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\refint\Mng.Core.dll
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\Mng.Core.pdb
+Y:\Groups\Group_1\ציגלמן  תמר\אתר הפרקטיקום\Server\Mng.Core\obj\Debug\net8.0\ref\Mng.Core.dll
